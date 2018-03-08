@@ -83,7 +83,6 @@ header form input{
     margin-top: 5px;
 }
 
-
 /* come back and fix it */
 .logo-login-details a{
     margin-top: 10px;
@@ -93,3 +92,49 @@ header form input{
 
 
 /* End of Header styling */
+
+
+/* Start of Main body styling */
+
+/* Main left section */
+main{
+    background-color: #edf0f5;
+    color: rgb(77, 70, 70);
+}
+
+main .about-fb{
+    float: left;
+    width: 50%;
+    margin-top: 40px;
+}
+
+main .about-fb h1{
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+main .about-fb-subsection{
+    /* margin-bottom: 50px; */
+    display: inline-flex;
+    margin-bottom: 20px;
+}
+
+main .about-fb-subsection img{
+    /* float: left; */
+    height: 40px;
+    width: 45px;
+}
+
+main .about-fb-subsection h3{
+    /* float: left; */
+    margin-left: 20px;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+main .about-fb-subsection p{
+    /* float: right; */
+    margin-left: 10px;
+    font-size: 15px;
+    margin-top: 10px;
+}
