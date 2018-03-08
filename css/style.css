@@ -138,3 +138,111 @@ main .about-fb-subsection p{
     font-size: 15px;
     margin-top: 10px;
 }
+
+/* End of main left section */
+
+/* Main right section */
+main .sign-up{
+    float: right;
+    width: 40%;
+}
+
+main .sign-up h1{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+main .sign-up p{
+    margin-top: 0;
+    font-size: 15px;
+}
+
+main .sign-up form #first-name {
+    margin-right: 5px;
+    padding: 10px 0 10px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+main .sign-up form #last-name{
+    padding: 10px 0 10px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 45%;
+}
+
+main .sign-up form #mobile-or-phone{
+    padding: 10px 0 10px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+main input[type="password"]{
+    padding: 10px 0 10px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+main form #birthday{
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+main form select{
+    padding: 3px;
+}
+
+main form .select-date a{
+    text-decoration: none;
+    font-size: 10px;
+    margin-right: 0;
+    padding-right: 0;
+    color: rgb(72, 115, 165);
+}
+
+main form .gender{
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+main form #terms-conditions{
+    width: 80%;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+main form #create-account-btn{
+    padding: 10px 25px;
+    border-radius: 8px;
+    background-color: #67ae55;
+    font-size: 19px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border-top-color: rgb(59, 110, 34);
+    border-right-color: rgb(59, 110, 34);
+    border-bottom-color: rgb(44, 81, 21);
+    border-left-color: rgb(59, 110, 34);
+    cursor: pointer;
+}
+
+main form #celebrity-band-business{
+    font-weight: 1.2em;
+    margin-bottom: 50px;
+    font-size: 12px;
+}
+
+main form #celebrity-band-business a{
+    text-decoration: none;
+    color: rgb(72, 115, 165);
+}
+/* End of Main styling */
