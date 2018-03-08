@@ -246,3 +246,49 @@ main form #celebrity-band-business a{
     color: rgb(72, 115, 165);
 }
 /* End of Main styling */
+
+
+/* Start of Footer styling */
+
+footer{
+    margin-top: 15px;
+    background-color: white;
+    color: rgb(136, 124, 124);
+}
+
+footer .languages{
+    margin-top: 15px;
+    margin-bottom: 15px
+}
+
+footer .languages a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #365899
+}
+
+footer hr{
+    background-color: whitesmoke
+}
+
+footer .first-line-links a{
+    margin-top: 10px;
+    /* margin-bottom: 15px; */
+    text-decoration: none;
+    padding-right: 15px;
+    color: #365899;
+}
+
+footer .second-line-links a{
+    text-decoration: none;
+    padding-right: 15px;
+    color: #365899;
+    padding-top: 10px;
+}
+
+footer .fb-copyright{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: rgb(136, 124, 124);
+    font-size: 11px;
+}
